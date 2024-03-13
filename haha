@@ -1,0 +1,4 @@
+hours =  (input_hours)
+minuets = (input_minuets)/60
+Duration = hours + minuets
+print = Duration
